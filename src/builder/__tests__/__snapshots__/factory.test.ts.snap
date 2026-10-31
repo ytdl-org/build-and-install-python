@@ -1,5 +1,0 @@
-// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
-
-exports[`getBuilder Requesting Python { freethreaded: false, type: 'pypy', version: '2.x.x' } leads to an error 1`] = `"Only CPython can be built from source. Got pypy."`;
-
-exports[`getBuilder Requesting Python { freethreaded: false, type: 'pypy', version: '3.x.x' } leads to an error 1`] = `"Only CPython can be built from source. Got pypy."`;
